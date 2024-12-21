@@ -5,7 +5,7 @@
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Electron]([[https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase](https://img.shields.io/badge/Electron-App-%231E1E1E.svg?style=for-the-badge&logo=electron&logoColor=white)](https://img.shields.io/badge/Electron-App-%231E1E1E.svg?style=for-the-badge&logo=electron&logoColor=white)) 
+![Electron](https://img.shields.io/badge/Electron-App-%231E1E1E.svg?style=for-the-badge&logo=electron&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
