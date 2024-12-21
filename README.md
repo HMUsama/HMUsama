@@ -1,4 +1,7 @@
 # 💫 About Me:
+🔧Passionate and results-driven React Native developer with  years of hands-on experience building high-performance mobile applications.
+I specialize in crafting responsive UIs, implementing complex features, and optimizing performance to deliver seamless user experiences.
+I'm adept at collaborating with cross-functional teams, and I enjoy contributing to open-source projects that challenge me and allow me to grow as a developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hmusamaraza) 
