@@ -33,9 +33,9 @@ I'm adept at collaborating with cross-functional teams, and I enjoy contributing
 -->
 
 <!--  https://github-readme-streak-stats.herokuapp.com/?user=HMUsama&theme=tokyonight&hide_border=false > -->
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HMUsama&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HMUsama&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
